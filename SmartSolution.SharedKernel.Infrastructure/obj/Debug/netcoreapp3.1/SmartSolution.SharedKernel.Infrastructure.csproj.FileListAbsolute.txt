@@ -1,0 +1,12 @@
+C:\Users\user\Downloads\SmartSolutionCRM\SmartSolution.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\SmartSolution.SharedKernel.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\SmartSolutionCRM\SmartSolution.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\SmartSolution.SharedKernel.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\SmartSolutionCRM\SmartSolution.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\SmartSolution.SharedKernel.Infrastructure.AssemblyInfo.cs
+C:\Users\user\Downloads\SmartSolutionCRM\SmartSolution.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\SmartSolution.SharedKernel.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\SmartSolutionCRM\SmartSolution.SharedKernel.Infrastructure\bin\Debug\netcoreapp3.1\SmartSolution.SharedKernel.Infrastructure.deps.json
+C:\Users\user\Downloads\SmartSolutionCRM\SmartSolution.SharedKernel.Infrastructure\bin\Debug\netcoreapp3.1\SmartSolution.SharedKernel.Infrastructure.dll
+C:\Users\user\Downloads\SmartSolutionCRM\SmartSolution.SharedKernel.Infrastructure\bin\Debug\netcoreapp3.1\SmartSolution.SharedKernel.Infrastructure.pdb
+C:\Users\user\Downloads\SmartSolutionCRM\SmartSolution.SharedKernel.Infrastructure\bin\Debug\netcoreapp3.1\SmartSolution.SharedKernel.Domain.dll
+C:\Users\user\Downloads\SmartSolutionCRM\SmartSolution.SharedKernel.Infrastructure\bin\Debug\netcoreapp3.1\SmartSolution.SharedKernel.Domain.pdb
+C:\Users\user\Downloads\SmartSolutionCRM\SmartSolution.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\SmartSolution.SharedKernel.Infrastructure.csproj.CopyComplete
+C:\Users\user\Downloads\SmartSolutionCRM\SmartSolution.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\SmartSolution.SharedKernel.Infrastructure.dll
+C:\Users\user\Downloads\SmartSolutionCRM\SmartSolution.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\SmartSolution.SharedKernel.Infrastructure.pdb

@@ -1,0 +1,489 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Organization\\SmartSolution.Organization.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Domain\\SmartSolution.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Domain\\SmartSolution.Domain.csproj",
+        "projectName": "SmartSolution.Domain",
+        "projectPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Domain\\SmartSolution.Domain.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.SharedKernel.Domain\\SmartSolution.SharedKernel.Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.SharedKernel.Domain\\SmartSolution.SharedKernel.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Identity\\SmartSolution.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Identity\\SmartSolution.Identity.csproj",
+        "projectName": "SmartSolution.Identity",
+        "projectPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Identity\\SmartSolution.Identity.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Domain\\SmartSolution.Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Domain\\SmartSolution.Domain.csproj"
+              },
+              "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Infrastructure\\SmartSolution.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Infrastructure\\SmartSolution.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Infrastructure\\SmartSolution.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Infrastructure\\SmartSolution.Infrastructure.csproj",
+        "projectName": "SmartSolution.Infrastructure",
+        "projectPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Infrastructure\\SmartSolution.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Domain\\SmartSolution.Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Domain\\SmartSolution.Domain.csproj"
+              },
+              "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.SharedKernel.Infrastructure\\SmartSolution.SharedKernel.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.SharedKernel.Infrastructure\\SmartSolution.SharedKernel.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.1.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Organization\\SmartSolution.Organization.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Organization\\SmartSolution.Organization.csproj",
+        "projectName": "SmartSolution.Organization",
+        "projectPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Organization\\SmartSolution.Organization.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Organization\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Domain\\SmartSolution.Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Domain\\SmartSolution.Domain.csproj"
+              },
+              "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Infrastructure\\SmartSolution.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Infrastructure\\SmartSolution.Infrastructure.csproj"
+              },
+              "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.User\\SmartSolution.User.csproj": {
+                "projectPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.User\\SmartSolution.User.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.SharedKernel.Domain\\SmartSolution.SharedKernel.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.SharedKernel.Domain\\SmartSolution.SharedKernel.Domain.csproj",
+        "projectName": "SmartSolution.SharedKernel.Domain",
+        "projectPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.SharedKernel.Domain\\SmartSolution.SharedKernel.Domain.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.SharedKernel.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.SharedKernel.Infrastructure\\SmartSolution.SharedKernel.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.SharedKernel.Infrastructure\\SmartSolution.SharedKernel.Infrastructure.csproj",
+        "projectName": "SmartSolution.SharedKernel.Infrastructure",
+        "projectPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.SharedKernel.Infrastructure\\SmartSolution.SharedKernel.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.SharedKernel.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.SharedKernel.Domain\\SmartSolution.SharedKernel.Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.SharedKernel.Domain\\SmartSolution.SharedKernel.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.17, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.User\\SmartSolution.User.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.User\\SmartSolution.User.csproj",
+        "projectName": "SmartSolution.User",
+        "projectPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.User\\SmartSolution.User.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.User\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Identity\\SmartSolution.Identity.csproj": {
+                "projectPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Identity\\SmartSolution.Identity.csproj"
+              },
+              "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Infrastructure\\SmartSolution.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Infrastructure\\SmartSolution.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

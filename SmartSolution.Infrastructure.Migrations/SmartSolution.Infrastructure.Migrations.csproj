@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20211127134133_InitialDatabase.cs" />
+    <Compile Remove="Migrations\20211127134133_InitialDatabase.Designer.cs" />
+    <Compile Remove="Migrations\20211127134753_CreateRequestTable.cs" />
+    <Compile Remove="Migrations\20211127134753_CreateRequestTable.Designer.cs" />
+    <Compile Remove="Migrations\20211127135022_InitialDatabase.cs" />
+    <Compile Remove="Migrations\20211127135022_InitialDatabase.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.17" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.17">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.17" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.17">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SmartSolution.Infrastructure\SmartSolution.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TeDKtBBoTxGwedfIinYLG2TYNziOpptbUN+514hLAmL+2PEgc7tl+a3bReQkOd18E82VBlmZiedQZkZKuzJEdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Downloads\\SmartSolutionCRM\\SmartSolution.Domain\\SmartSolution.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
